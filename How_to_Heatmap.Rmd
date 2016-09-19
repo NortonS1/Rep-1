@@ -2,6 +2,7 @@
 title: "How to: Heatmap"
 output: "html_document"
 ---
+# How to: Heatmap
 
 First, load the file and packages 
 ```{r, message = FALSE, warning = FALSE}
